@@ -10,7 +10,7 @@ class Gallery extends Component {
                     number='1'
                     name='Scubatocat'
                     image='https://octodex.github.com/images/scubatocat.png'
-                    link='https://octodex.github.com/tentocat'
+                    link='https://octodex.github.com/scubatocat'
                     avatar='https://avatars1.githubusercontent.com/u/19292210?v=4'
 
                 />
@@ -19,7 +19,7 @@ class Gallery extends Component {
                     name='Tentocats'
                     image='https://octodex.github.com/images/tentocats.jpg'
                     link='https://octodex.github.com/tentocat'
-                    avatar='https://avatars1.githubusercontent.com/u/19292210?v=4'
+                    avatar='https://avatars3.githubusercontent.com/u/20049049?v=4'
 
                 />
                 <Octocat
@@ -27,7 +27,7 @@ class Gallery extends Component {
                     name='Saint Nictocat'
                     image='https://octodex.github.com/images/saint_nictocat.jpg'
                     link='https://octodex.github.com/saint_nictocat'
-                    avatar='https://avatars1.githubusercontent.com/u/19292210?v=4'
+                    avatar='https://avatars3.githubusercontent.com/u/20049049?v=4'
 
                 />
                 <Octocat
@@ -35,7 +35,7 @@ class Gallery extends Component {
                     name='Dinotocat'
                     image='https://octodex.github.com/images/dinotocat.png'
                     link='https://octodex.github.com/dinotocat'
-                    avatar='https://avatars1.githubusercontent.com/u/19292210?v=4'
+                    avatar='https://avatars3.githubusercontent.com/u/20049049?v=4'
 
                 />
                 <Octocat
