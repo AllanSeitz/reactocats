@@ -3,6 +3,9 @@ class Octocat extends Component {
     state = {}
     render() {
         return (
+
+
+
             <article className="cat-element">
                 <div className="top-image">
                     <img className="main-image" src={this.props.image} />
